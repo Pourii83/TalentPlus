@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: TalentPlus
+## Notes: Plan your talents first, then learn them all at once with a Learn button.
+## Author: Pourii83
+## Version: 1.0.0
+## SavedVariables: TalentPlusDB
+
+TalentPlus.lua
